@@ -4,6 +4,15 @@
         <TargetFramework>net6.0</TargetFramework>
         <Nullable>enable</Nullable>
         <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageVersion>0.0.1</PackageVersion>
+        <Title>Synonms MultiTenancy (Abstractions)</Title>
+        <Authors>Synonms</Authors>
+        <Description>Synonms MultiTenancy is a lightweight library to help implement basic multi-tenancy.</Description>
+        <Copyright>2023 Synonms</Copyright>
+        <RepositoryUrl>https://github.com/synonms/multitenancy</RepositoryUrl>
+        <RepositoryType>GitHub</RepositoryType>
+        <PackageTags>MultiTenancy;Tenant;</PackageTags>
     </PropertyGroup>
 
     <ItemGroup>
